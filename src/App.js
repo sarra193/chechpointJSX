@@ -1,11 +1,11 @@
-import './App.css';
+import './style.css';
 import logo from './assets/logo192.png';
 
 function App() {
   return (
     <div className="App">
     <div style={{border: 'solid 1px black', maxWidth: '100vw'}}>
-          <h1 className="title red">React Project</h1>
+          <h1 className="title red"> JSX Checkpoint</h1>
           <br />
           <img src={logo} alt=""/>
           <br />
